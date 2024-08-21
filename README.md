@@ -1,5 +1,5 @@
 # PredictingFromImages
-mahady research academy's assignment 2
+
 
 # why we need to do normalization (preprocessing of input data)
 Normalization is a technique where we adjust the input data to have a mean of zero and a standard deviation of one (or scale the data to a specific range like 0 to 1). 
